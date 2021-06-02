@@ -20,7 +20,7 @@ requests-futures==0.9.5
 s3cmd==1.0.1
 simplejson==3.3.3
 six==1.5.2
-urllib3==1.7.1
+urllib3==1.26.5
 virtualenv==1.11.4
 wsgiref==0.1.2
 kitnirc==0.2.6
