@@ -2,7 +2,7 @@ amqp==1.4.6
 anyjson==0.3.3
 boto==2.38.0
 boto3==1.4.1
-bottle==0.12.4
+bottle==0.12.20
 configlib==1.0.0
 configparser==3.5.0b2
 docutils==0.11
@@ -12,16 +12,16 @@ glob2==0.4.1
 kombu==3.0.26
 pyelasticsearch==0.6.1
 pyes==0.99.5
-pymongo==2.6.3
+pymongo==4.18.2
 python-dateutil==2.2
 pytz==2013.9
-requests==2.5.3
+requests==2.33.0
 requests-futures==0.9.5
 s3cmd==1.0.1
 simplejson==3.3.3
 six==1.5.2
-urllib3==1.7.1
-virtualenv==1.11.4
+urllib3==2.8.0
+virtualenv==21.7.13
 wsgiref==0.1.2
 kitnirc==0.2.6
 netaddr==0.7.11
@@ -30,7 +30,7 @@ pynsive==0.2.6
 MySQL-python==1.2.5
 ipaddr==2.1.11
 ipwhois==0.9.0
-celery==3.1.17
+celery==5.2.2
 #only needed for google integration to pull gdocs/mail logs
 oauth2client==1.4.7
 google-api-python-client==1.4.0
